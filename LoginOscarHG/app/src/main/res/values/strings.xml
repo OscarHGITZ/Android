@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginOscarHG</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Password</string>
+    <string name="entrar">Entrar</string>
+    <string name="contraseña_incorrecta">Contraseña o nombre incorrectos</string>
+    <string name="campo_requerido">Campo requerido</string>
+
+</resources>
