@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginOscarHG</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Password</string>
+    <string name="entrar">Entrar</string>
+    <string name="contraseña_incorrecta">Contraseña o nombre incorrectos</string>
+    <string name="campo_requerido">Campo requerido</string>
+
+    <string-array name="para_dropdown">
+        <item>Elige una opción</item>
+        <item>LinearLayout</item>
+        <item>TableLayout</item>
+        <item>RelativeLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>FrameLayout</item>
+        <item>ConstraintLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
+</resources>
